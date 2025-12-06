@@ -7,7 +7,7 @@ This repository contains a collection of my Jupyter notebooks organized into top
 ---
 ## Topics
 
-- **Competetive-Coding**: Contest and practice notebooks
+- **Competitive-Coding**: Contest and practice notebooks
 - **Computer-Science**: Algorithms, concurrency, and CS notes
 - **Computer-Vision**: CV experiments, segmentation, and demos
 - **Course-Work**: Course labs, assignments and practicals (many TF/Coursera labs)
